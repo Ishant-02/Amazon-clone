@@ -9,6 +9,15 @@ A responsive Amazon clone built using HTML, CSS, and JavaScript with interactive
 - Interactive UI using JavaScript DOM manipulation
 - Responsive layout
 
+- ## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](assets/home.png)
+
+### 🛒 Cart Page
+![Cart Page](assets/cart.png)
+
+
 ## 🛠️ Tech Stack
 - HTML
 - CSS
